@@ -1,35 +1,74 @@
 <!-- Título animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF7F&center=true&vCenter=true&width=600&lines=Olá,+sou+António+👋;Desenvolvedor+Web+💻;Apaixonado+por+tecnologia+🌱;Bem-vindo+ao+meu+perfil!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF7F&center=true&vCenter=true&width=600&lines=Olá,+sou+António+👋;Engenheiro+de+Software+Full+Stack+💻;Criador+de+Soluções+Inovadoras+🌍;Bem-vindo+ao+meu+perfil!">
 </h1>
 
-<!-- Breve descrição -->
 <p align="center">
-  🌍 Desenvolvedor baseado em Angola <br>
-  💡 Apaixonado por inovação, agricultura inteligente e tecnologia. <br>
-  🚀 Criador de soluções com Laravel, Docker e Tailwind CSS.
+  🌍 Desenvolvedor e engenheiro de software baseado em Angola. <br>
+  💡 Trabalho com tecnologias modernas — do frontend ao backend. <br>
+  🚀 Apaixonado por inovação, inteligência artificial e sistemas distribuídos.
 </p>
 
 ---
 
-## 🧰 Tecnologias que uso
+## 🧠 Tecnologias e Ferramentas que uso
 
 <p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql,docker" /><br>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" /><br>
-  <!-- DevOps / Outros -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+  <!-- Linguagens principais -->
+  <img src="https://skillicons.dev/icons?i=js,ts,php,dart,python" /><br>
+
+  <!-- Frameworks e plataformas -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,express,laravel,weaviate" /><br>
+
+  <!-- Banco de dados e backend -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /><br>
+
+  <!-- DevOps e ferramentas -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma" />
 </p>
+
+---
+
+## 🧩 Áreas de atuação
+
+- 🌐 **Desenvolvimento Web & Mobile** → Next.js, Flutter, Laravel  
+- 🧠 **Inteligência Artificial & Vetor Search** → Weaviate + LLMs  
+- ⚙️ **APIs REST e Microserviços** → Node.js + Express  
+- 🧰 **DevOps & Containers** → Docker, Docker Compose  
+- ☁️ **Integração & Automação** → GitHub Actions, APIs externas  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AntonioDaAsuncaoDaSilva&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioDaAsuncaoDaSilva&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntonioDaAsuncaoDaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioDaAsuncaoDaSilva&theme=radical" />
+</p>
+
+---
+
+## ⚡ Curiosidades sobre mim
+
+- 🎯 Sempre à procura de novos desafios e tecnologias emergentes  
+- 🌱 Gosto de trabalhar em projetos que fazem diferença na sociedade  
+- 💬 Pergunta-me sobre **LLMs, APIs, Flutter, ou arquitetura de software**  
+- ☕ Café e código são a combinação perfeita  
+
+---
+
+## 🌐 Contatos e Links
+
+<p align="center">
+  <a href="mailto:antoniodaassuncaodasilva@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/AntonioDaAsuncaoDaSilva">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/antoniodaassuncaodasilva">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -40,24 +79,7 @@
   <img src="https://raw.githubusercontent.com/AntonioDaAsuncaoDaSilva/AntonioDaAsuncaoDaSilva/main/assets/wave.svg" width="100%" />
 </p>
 
----
-
-## 📫 Onde me encontrar
+<!-- Rodapé com gradiente -->
 <p align="center">
-  <a href="mailto:antoniodaassuncaodasilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/AntonioDaAsuncaoDaSilva">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/antoniodaassuncaodasilva">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Rodapé -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:008000,100:654321&height=120&section=footer"/>
 </p>
