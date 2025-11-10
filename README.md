@@ -1,39 +1,63 @@
-# Olá — sou o António 👋
+<!-- Título animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF7F&center=true&vCenter=true&width=600&lines=Olá,+sou+António+👋;Desenvolvedor+Web+💻;Apaixonado+por+tecnologia+🌱;Bem-vindo+ao+meu+perfil!">
+</h1>
 
-<div align="center">
-
-<!-- Typing-style (usando um GIF ou um serviço) -->
-![Typing](/assets/typing.gif)
-
-</div>
-
-## Sobre mim
-Sou desenvolvedor web, trabalho com **Laravel**, **Docker** e adoro criar ferramentas para agricultura e automação.
-
-### 🧰 Tech / Ferramentas
-- PHP · Laravel · MySQL
-- Docker · Git · GitHub Actions
-- JavaScript · Vue / React
-
----
-
-<!-- Uma linha com um SVG animado guardado em assets/wave.svg -->
+<!-- Breve descrição -->
 <p align="center">
-  <img src="./assets/wave.svg" alt="ondas animadas" width="100%" />
+  🌍 Desenvolvedor baseado em Angola <br>
+  💡 Apaixonado por inovação, agricultura inteligente e tecnologia. <br>
+  🚀 Criador de soluções com Laravel, Docker e Tailwind CSS.
 </p>
 
 ---
 
-### 📊 Estatísticas
-<!-- GitHub Readme Stats (coloca YOUR_USERNAME) -->
+## 🧰 Tecnologias que uso
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="top languages" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql,docker" /><br>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" /><br>
+  <!-- DevOps / Outros -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
 ---
 
-### 📫 Contacto
-- Email: antoniodaassuncaodasilva@gmail.com
-- Site / Portfolio: https://seusite.exemplo
+## 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AntonioDaAsuncaoDaSilva&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioDaAsuncaoDaSilva&theme=radical" />
+</p>
+
+---
+
+## 🌊 Animação decorativa
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AntonioDaAsuncaoDaSilva/AntonioDaAsuncaoDaSilva/main/assets/wave.svg" width="100%" />
+</p>
+
+---
+
+## 📫 Onde me encontrar
+<p align="center">
+  <a href="mailto:antoniodaassuncaodasilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AntonioDaAsuncaoDaSilva">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/antoniodaassuncaodasilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
