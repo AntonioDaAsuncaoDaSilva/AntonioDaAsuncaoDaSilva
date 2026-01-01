@@ -18,13 +18,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,php,dart,python" /><br>
 
   <!-- Frameworks e plataformas -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,express,laravel,weaviate" /><br>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,nest,express,laravel,weaviate" /><br>
 
   <!-- Banco de dados e backend -->
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /><br>
 
   <!-- DevOps e ferramentas -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma" /></br>
+
+  https://skillicons.dev/icons?i=nest
 </p>
 
 ---
