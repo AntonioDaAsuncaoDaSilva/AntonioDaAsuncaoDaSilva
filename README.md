@@ -21,12 +21,12 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,nest,express,laravel,weaviate" /><br>
 
   <!-- Banco de dados e backend -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,prisma" /><br>
 
   <!-- DevOps e ferramentas -->
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma" /></br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma,postman" /></br>
 
-  https://skillicons.dev/icons?i=nest
+  <!-- DevOps e ferramentas -->
 </p>
 
 ---
