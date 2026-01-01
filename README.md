@@ -35,20 +35,12 @@
 
 - 🌐 **Desenvolvimento Web & Mobile** → Next.js, Flutter, Laravel  
 - 🧠 **Inteligência Artificial & Vetor Search** → Weaviate + LLMs  
-- ⚙️ **APIs REST e Microserviços** → Node.js + Express  
+- ⚙️ **APIs REST e Microserviços** → Node.js + Express + Prisma ,Nestjs + Prisma
 - 🧰 **DevOps & Containers** → Docker, Docker Compose  
 - ☁️ **Integração & Automação** → GitHub Actions, APIs externas  
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntonioDaAsuncaoDaSilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AntonioDaAsuncaoDaSilva&theme=radical" />
-</p>
-
----
 
 ## ⚡ Curiosidades sobre mim
 
